@@ -12,7 +12,6 @@ A Streamlit-based multilingual cryptocurrency price assistant that provides up-t
 3. [Prompt Engineering Approach](#prompt-engineering-approach)
 4. [Setup Instructions](#setup-instructions)
 5. [Assumptions and Limitations](#assumptions-and-limitations)
-6. [License](#license)
 
 ---
 
@@ -37,9 +36,8 @@ The assistant supports:
 ## 🎛️ Prompt Engineering Approach
 This assistant leverages prompt engineering to deliver relevant and concise responses. The approach includes:
 1. **Keyword Matching**: For each user query, the assistant searches for crypto symbols or names within the response to identify relevant data.
-2. **Language Detection**: Based on user input, the assistant detects the selected language and adjusts responses accordingly.
-3. **Structured Response Formatting**: Responses are formatted with metric summaries, such as 24-hour price changes and market cap, in a user-friendly style.
-4. **Enhanced Chart Integration**: Custom visuals using Plotly are generated dynamically for each cryptocurrency, providing a clear representation of 24-hour price trends.
+2. **Structured Response Formatting**: Responses are formatted with metric summaries, such as 24-hour price changes and market cap, in a user-friendly style.
+3. **Enhanced Chart Integration**: Custom visuals using Plotly are generated dynamically for each cryptocurrency, providing a clear representation of 24-hour price trends.
 
 ---
 ## 🛠️ Setup Instructions
@@ -89,11 +87,6 @@ This assistant leverages prompt engineering to deliver relevant and concise resp
 2. **Language Support**: The assistant can only respond in supported languages; some complex language-specific queries may result in incomplete answers.
 3. **Data Refresh Lag**: The "Refresh Data" button may take a few seconds to update due to API response times.
 4. **Limited Cryptocurrency Symbols**: The assistant recognizes popular crypto symbols, but less common tokens may not be supported.
-
----
-
-## 📜 License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
