@@ -1,0 +1,14 @@
+os
+python-dotenv
+requests
+faiss-cpu
+numpy
+sentence-transformers
+together-ai  
+logging
+streamlit
+asyncio
+plotly
+python-dotenv 
+requests  
+pandas  
