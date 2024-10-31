@@ -1,6 +1,6 @@
 # 💰 Multilingual Crypto Price Assistant
 
-![Crypto Price Assistant Banner](images/banner.png)
+![Crypto Price Assistant Banner](images/banner.jpeg)
 
 A Streamlit-based multilingual cryptocurrency price assistant that provides up-to-date crypto information, including current price, 24-hour changes, market capitalization, and trading volume in multiple languages, including Indian languages.
 
@@ -93,10 +93,10 @@ This assistant leverages prompt engineering to deliver relevant and concise resp
 ## 📷 Screenshots
 
 ### Main Interface
-![Main Interface](images/main_interface.png)
+![Main Interface](images/interface.jpeg)
 
 ### Market Details Example
-![Market Details](images/market_details.png)
+![Market Details](images/market_analysis.jpeg)
 
 ---
 
